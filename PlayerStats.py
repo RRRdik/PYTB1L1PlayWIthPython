@@ -1,8 +1,0 @@
-name = "Ronel Dik"
-weapon_type = "Medium Ranged"
-ammo = "30 +120"
-power = "invisibility"
-mood = "calm"
-fighting_style = "agressive"
-weapon_of_choice = "SCAR-H"
-best_skill = "precision"
